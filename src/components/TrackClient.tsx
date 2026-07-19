@@ -24,7 +24,7 @@ const MOCK_RECORDS: Record<string, MockRecord> = {
     full_name_en:   "Amr Ezzat Mohamed Hussein El-Monjed",
     address:        "الإسكندرية ـ ثان المنتزه ـ شارع المعهد الديني ـ العصافرة 9",
     birthdate:      "21/02/2003",
-    email:          "",
+    email:          "amrtmgnow18726@gmail.com",
     status:         "reviewing",
     registered_by:  "HR بدر محمد علام أحمد",
     registered_at:  "18/07/2026",
